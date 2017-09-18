@@ -1,0 +1,11 @@
+{
+  "files": [
+    "src/*"
+  ],
+  "compilerOptions": {
+    "outFile": "./dist/main.js",
+    "noImplicitAny": true,
+    "target": "es5",
+    "sourceMap": true
+  }
+}
